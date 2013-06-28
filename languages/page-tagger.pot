@@ -1,0 +1,57 @@
+# Copyright (C) 2012 Related Posts by Tag
+# This file is distributed under the same license as the Related Posts by Tag package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Related Posts by Tag 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wppluginspool.com\n"
+"POT-Creation-Date: 2013-06-21 11:14:21+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: related-posts-by-tag-class.php:73
+msgid "Tags used on this page:"
+msgstr ""
+
+#: related-posts-by-tag-class.php:74
+msgid "Add New Tag"
+msgstr ""
+
+#: related-posts-by-tag-class.php:79
+msgid "Tags"
+msgstr ""
+
+#: related-posts-by-tag-class.php:132
+msgid "Separate tags with commas."
+msgstr ""
+
+#: related-posts-by-tag-class.php:137
+msgid "Add or remove tags"
+msgstr ""
+
+#: related-posts-by-tag-class.php:142
+msgid "Add new tag"
+msgstr ""
+
+#: related-posts-by-tag-class.php:143
+msgid "Add"
+msgstr ""
+
+#: related-posts-by-tag-class.php:148
+msgid "Choose from the most used tags"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Related Posts by Tag"
+msgstr ""
+
+#. PHP 5 warning
+msgid "Related Posts by Tag plugin requires PHP 5 or above to work"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Enables tagging for pages. PHP 5 required."
+msgstr ""
