@@ -112,9 +112,11 @@ function get_related_articles($post_id, &$post_count){
 //------------------ WIDGET -----------------//
 require_once ('related-articles-by-tag-widget.php');
 
-add_action( 'widgets_init', function(){
+add_action( 'widgets_init', 'related_articles_by_tag_widget');
+
+function related_articles_by_tag_widget() {
      register_widget( 'RelatedPostsByTag_Widget' );
-});
+}
 
 //------------------ SETTINGS PAGE -----------------//
 // create custom plugin settings menu

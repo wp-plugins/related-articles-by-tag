@@ -2,9 +2,9 @@
 
 Contributors: stesvis
 Tags: tags, tagging, posts, pages, related articles, related posts
-Requires at least: 3.5+
-Tested up to: 3.5.1
-Stable tag: 1.0.0
+Requires at least: 3.6+
+Tested up to: 3.6
+Stable tag: 1.0.1
 
 
 With this plugin you can add a list of links to posts having the same tag(s) of the current post.
@@ -24,6 +24,9 @@ Use the shortcode [related-articles-by-tag] where you want the related articles 
 
 
 == Changelog ==
+
+= 1.0.1 =
+* Minor bug fix
 
 = 1.0.0 =
 * First Release
