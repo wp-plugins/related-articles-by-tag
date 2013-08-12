@@ -18,7 +18,7 @@ Use the shortcode [related-articles-by-tag] where you want the related articles 
 == Installation ==
 
 1. If you have the lite version installed, deactivate it and delete it first
-2. Download and unzip the zip file into your Wordpress `plugins` folder such that the plugin files are at: `wp-content/plugins/related-articles-by-tag-lite/...`
+2. Download and unzip the zip file into your Wordpress `plugins` folder such that the plugin files are at: `wp-content/plugins/related-articles-by-tag/...`
 3. Activate the plugin within your blog's administration options.
 4. All done!
 

@@ -21,7 +21,7 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
  Plugin Name: Related Articles by Tag Lite
  Plugin URI: http://wppluginspool.com/downloads/related-articles-by-tag/
  Description: If you use tags, at the end of your posts it will show a list of links to the other posts that have the same tag(s). This can happen automatically for each post or only where you add the shortcode [related-articles-by-tag].
- Version: 1.0.0
+ Version: 1.0.1
  Author: Cristian Merli
  Author URI: http://wppluginspool.com
  */
